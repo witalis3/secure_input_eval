@@ -7580,7 +7580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at -10.16 148.59 0)
 			(effects
 				(font
