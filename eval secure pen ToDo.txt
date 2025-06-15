@@ -18,9 +18,9 @@
 			- 
 		- schemat
 			- todo:
-				- złącza do J1 lub wyrzucić J1 (USB C 16 pin)
-			- J4 i J15: czy ma być gniazdo podwójne
-			
+				- ??  znalesc TME  |  złącza do J1 lub wyrzucić J1 (USB C 16 pin)
+			- ok! J4 i J15: czy ma być gniazdo podwójne
+			- ??  znalesc TME J4 i J15: czy ma być gniazdo podwójne
 			- ok! J i SW ktore maja tylko jedno polaczenie do procesora nazwac ttakze nazwami pinow MX
 			- ok! zmienić nazwy pinów funkcji na np. CS_PA5
 			- ok! dodać etykiety do niepodłączonych nóg i do złącza 1x32 CPU
@@ -32,9 +32,10 @@
 				- ok SD -> SPI
 				- ok I2C
 		- PCB
-			- poodpisac wszystkie piny na connectorze do procesora
-			- WSPOOLNIE: Dodac ciecie jako foootprint otwory do przelamania plytki
+			- ok! poodpisac wszystkie piny na connectorze do procesora
+			- ok!  WSPOOLNIE: Dodac ciecie jako foootprint otwory do przelamania plytki
 			- czytnik linii miejsce do poodlaczenia
+				- footrprint od producenta albo plik
 				- symbol + podłączenie do procesora i footprint
 				- podłączenie do I2C2 (PA7 i PA10)
 			
@@ -42,20 +43,19 @@
 			- ok ! masy pomiarowe
 			- ok ! gniazdo ST-Link ISP 10 pin
 			- ok! czterowarstwowe PCB
-			- ok ! elementy 0805
+			- ok! elementy 0805
 			- ok! LEDy przewlekane 3mm
 		
-			- WSPOLNIE: poprawić SECUR PEN / koncowa płytkę mini/mikro: USB, zasilanie
-				- zmienić wtyk USB A z 3.0 na 2.0
+			- ??????? WSPOLNIE: poprawić SECUR PEN / koncowa płytkę mini/mikro: USB, zasilanie
+				- ??  zmienić wtyk USB A z 3.0 na 2.0
 				- EN (4 noga U2 przetwornicy) do +5V a nie do 3,3V
 				- SW1 do innego PINu!
-				- pola do BOOT0 -> +3,3V
-				- footprint do SW5_TOUCH
-				- sprawdzić śrubki i tulejki 1mm
+				- ?? pola do BOOT0 -> +3,3V
 
 
 
-	- SECURE PEN GOOLD / wskazówki złotej płytki
+
+	- SECURE PEN GOOLD / WNIOSKI ze złotej płytki
 			- obsługa dotykowego guzika jednoprzewodowa sprawdzic / 
 				- ... https://www.youtube.com/watch?v=R94Ut3pOTd4
 			- błędy schematu?
