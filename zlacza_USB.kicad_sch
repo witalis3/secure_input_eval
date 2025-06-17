@@ -6315,7 +6315,7 @@
 		(dnp no)
 		(uuid "07d5ac53-8e14-4266-855e-d6b8a5a629f2")
 		(property "Reference" "J8"
-			(at 50.8 76.2 0)
+			(at 43.18 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6323,14 +6323,14 @@
 			)
 		)
 		(property "Value" "USB_A 1"
-			(at 43.18 81.28 0)
+			(at 46.482 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_A_CONNFLY_DS1095-WNR0"
+		(property "Footprint" "Connector_USB:USB_A_Connfly_DS1095"
 			(at 46.99 92.71 0)
 			(effects
 				(font

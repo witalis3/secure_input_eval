@@ -8,19 +8,17 @@
 - ToDo
 	- eval_secure_pen
 		- TME
-			- https://www.tme.eu/pl/details/usb4105-gf-a-060/zlacza-usb-i-ieee1394/gct/ 1szt 3zł
-			- https://www.tme.eu/pl/details/tact-67r-f/mikroprzelaczniki-tact/ninigi/ 10szt 4zł
-			- niepotrzebny USB 2.0 https://www.tme.eu/pl/details/mx-48037-0001/zlacza-usb-i-ieee1394/molex/48037-0001/ 10zł
-			- USB 3.0 https://www.tme.eu/pl/details/gsb316441ceu/zlacza-usb-i-ieee1394/amphenol-communications-solutions/ 8,3zł
-			- USB 2.0 gniazdo https://www.tme.eu/pl/details/keys921/zlacza-usb-i-ieee1394/keystone/921/ 5zł
-			- USB 3.0 A podwójne gniazdo 2x 9pin https://www.tme.eu/pl/details/mx-48406-0003/zlacza-usb-i-ieee1394/molex/48406-0003/ 21zł
-			- USB C full https://www.tme.eu/pl/details/2436-02/zlacza-usb-i-ieee1394/lumberg/2436-02/ 12,7zł
+			- J1 https://www.tme.eu/pl/details/usb4105-gf-a-060/zlacza-usb-i-ieee1394/gct/ 1szt 3zł
+			- SW1-5 https://www.tme.eu/pl/details/tact-67r-f/mikroprzelaczniki-tact/ninigi/ 10szt 4zł
+			- J2 USB 3.0 https://www.tme.eu/pl/details/gsb316441ceu/zlacza-usb-i-ieee1394/amphenol-communications-solutions/ 8,3zł
+			- J8 USB 2.0 gniazdo żeńskie https://www.tme.eu/pl/details/keys921/zlacza-usb-i-ieee1394/keystone/921/ 5zł
+			- J4 i J15 USB 3.0 A podwójne gniazdo 2x 9pin https://www.tme.eu/pl/details/mx-48406-0003/zlacza-usb-i-ieee1394/molex/48406-0003/ 21zł
+			- J14 i J17 USB C full https://www.tme.eu/pl/details/2436-02/zlacza-usb-i-ieee1394/lumberg/2436-02/ 12,7zł
 			- 
 		- schemat
 			- todo:
-				- ??  znalesc TME  |  złącza do J1 lub wyrzucić J1 (USB C 16 pin)
-			- ok! J4 i J15: czy ma być gniazdo podwójne
-			- ??  znalesc TME J4 i J15: czy ma być gniazdo podwójne
+			- ok! znalesc TME  |  złącza do J1 USB C 16 pin)
+			- ok! J4 i J15
 			- ok! J i SW ktore maja tylko jedno polaczenie do procesora nazwac ttakze nazwami pinow MX
 			- ok! zmienić nazwy pinów funkcji na np. CS_PA5
 			- ok! dodać etykiety do niepodłączonych nóg i do złącza 1x32 CPU

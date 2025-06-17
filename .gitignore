@@ -9,6 +9,7 @@
 *.kicad_prl
 *.zip
 *~
+*.lck
 _autosave-*
 *.tmp
 *-save.pro
